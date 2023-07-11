@@ -1,0 +1,33 @@
+.profile_div img{
+    max-width: 56px;
+    border-radius: 50%;
+    border: 1px solid #291c42;
+}
+.label_text{
+    color: #54367e;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+.register_main_heading{
+    color:#291c42 ;
+    text-shadow: -2px 2px 5px;
+    letter-spacing: 5px;
+}
+.subimt_button{
+    background-color: #291c42;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 100px;
+}
+.submit {
+    width: 100%;
+    text-align: center;
+}
+.subimt_button:hover{
+    background-color: #291c42;
+    color: white;
+    font-weight: bold;
+    border: none;
+    width: 100px;
+}

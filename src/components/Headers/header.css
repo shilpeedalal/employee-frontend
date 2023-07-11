@@ -1,0 +1,29 @@
+.navigation-bar{
+    background-color: #291c42;
+}
+.title{
+    color: white;
+}
+.logo-image{
+    height: 50px;
+    max-width: 80px;
+    cursor: pointer;
+}
+.logo-text{
+    cursor: pointer;
+}
+.brand:hover{
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-link{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.nav-link :hover{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}

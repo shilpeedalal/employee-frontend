@@ -1,0 +1,54 @@
+.export_btn,.search_btn,.add_user {
+    background: #291c42;
+    border: none;
+}
+.export_btn:hover,.search_btn:hover,.add_user:hover{
+    background: #291c42;
+}
+.dropdown_btn {
+    background: none !important;
+    border: none;
+    color: blue;
+    font-size: 20px;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.dropdown_btn:hover {
+    color: blue !important;
+}
+.ser{
+    border: 1px #291c42 solid;
+}
+.filter h3{
+    color:#291c42 ;
+}
+.filter_newold h3{
+    color:#291c42 ;
+}
+.status h3{
+    color:#291c42 ;
+}
+.gender ,.status{
+    color: #291c42;
+}
+i.fa-solid.fa-sort {
+    color: black;
+}
+span.page-link {
+    background-color: #291c42 !important;
+    border: none;
+}
+a.page-link {
+    color: #291c42;
+}
+ul.pagination {
+    border: 1px #291c42 solid;
+    border-radius: 5px;
+}
+.form-check-input:checked {
+    background-color: #291c42 !important;
+    border-color: #291c42 !important;
+}

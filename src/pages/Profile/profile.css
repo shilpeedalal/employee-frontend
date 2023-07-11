@@ -1,0 +1,42 @@
+.card-profile-stats img {
+    max-width: 138px;
+    border-radius: 50%;
+    border: 1px solid #111;
+    margin-top: -95px;
+    height: 119px;
+}
+
+.card-profile {
+    padding-top: 20px;
+}
+
+.email {
+    color: rgb(238, 101, 122);
+}
+
+.fa-location-dot {
+    color: rgb(3, 104, 65);
+}
+
+.calendar {
+    color: rgb(145, 40, 119);
+}
+.fa-eye{
+    color: rgb(4, 151, 161);
+}
+.fa-person{
+    color: rgb(187, 89, 8);
+}
+.fa-mobile{
+    color: rgb(185, 159, 9);
+}
+
+.container.main {
+    padding-top: 50px;
+}
+.profile_main h3{
+    padding-top: 5px;
+    color:#291c42 ;
+    text-shadow: -2px 2px 5px;
+    letter-spacing: 5px;
+}
